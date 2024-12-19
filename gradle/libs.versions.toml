@@ -1,0 +1,5 @@
+[versions]
+geyser = "2.4.0-SNAPSHOT"
+
+[libraries]
+geyser = { module = "org.geysermc.geyser:api", version.ref = "geyser" }
